@@ -93,11 +93,10 @@
 ### Cryptography
 
   * [*] [bitcore-ecies](https://github.com/bitpay/bitcore-ecies) a module for bitcore that implements the Elliptic Curve Integrated Encryption Scheme (ECIES)
-  * [*] [drbg.js](https://github.com/fanatid/drbg.js) deterministic random bit generators from NIST SP 800-90A 
+  * [*] [drbg.js](https://github.com/cryptocoinjs/drbg.js) deterministic random bit generators from NIST SP 800-90A
   * [*] [ecdsa](https://github.com/cryptocoinjs/ecdsa) JavaScript component to Eliptical Curve Cryptography signing and verify
   * [*] [ecurve](https://github.com/cryptocoinjs/ecurve) JavaScript component for Eliptical Curve Cryptography
   * [*] [elliptic](https://github.com/indutny/elliptic) fast Elliptic Curve Cryptography in plain JavaScript
-  * [*] [pbkdf2-sha256](https://github.com/cryptocoinjs/pbkdf2-sha256) key derivation function primarily used for Scrypt 
   * [*] [secp256k1](https://github.com/cryptocoinjs/secp256k1-node) node.js bindings and pure JS implementation
 
 ## License
